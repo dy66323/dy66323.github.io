@@ -27,9 +27,9 @@ author:
   location         : "Hong Kong SAR"
   employer         : "The University of Hong Kong"
   pubmed           : 
-  Scholar profile  : "https://orcid.org/0009-0008-3006-0473"
+  Scholar profile  : 
   email            : "dyliu85@gmail.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://orcid.org/0009-0008-3006-0473" 
   uri              :
   bitbucket        :
   codepen          :
