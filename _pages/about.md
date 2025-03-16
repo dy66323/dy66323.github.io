@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, this is **Dingyao LIU **'s website.
+Hi, this is **Dingyao LIU**'s website.
 I am currently a PhD candidate advised by Prof. Shiming Zhang and I am part of the HKU WISE Research Group.
 
 ⛵ **Now, I am actively seeking a postdoctoral research position and excited about new collaborative opportunities!**
@@ -26,7 +26,7 @@ My research interests mainly focus on:
 
 - **Organic bioelectronics** based on organic electrochemical transistors (OECTs).
 - **Stretchable electronics and sensors**, particularly in wearable applications and healthcare monitoring.
-- **Soft functional materials **, including semiconducting hydrogel, liquid metal, biomaterials, and their practical applications.
+- **Soft functional materials**, including semiconducting hydrogel, liquid metal, biomaterials, and their practical applications.
 
 📌 Feel free to reach out to discuss research collaboration or any other opportunities!
 
