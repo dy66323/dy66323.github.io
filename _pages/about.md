@@ -24,9 +24,11 @@ I am currently a PhD candidate advised by Prof. Shiming Zhang and I am part of t
 
 My research interests mainly focus on:
 
-- **Organic bioelectronics** based on organic electrochemical transistors (OECTs).
-- **Stretchable electronics and sensors**, particularly in wearable applications and healthcare monitoring.
-- **Soft functional materials**, including semiconducting hydrogel, liquid metal, biomaterials, and their practical applications.
+
+
+- **Soft functional materials**, including semiconducting hydrogel, biomaterials, liquid metal, and their practical applications.
+- **Organic bioelectronics** based on organic mixed ion conductors (OMIXCs), particularly for wearable applications and healthcare monitoring.
+- **Brain-mimic Computing**, Neuromorphic computing and hardware implementation.
 
 📌 Feel free to reach out to discuss research collaboration or any other opportunities!
 
