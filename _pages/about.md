@@ -24,18 +24,22 @@ I am currently a PhD candidate advised by Prof. Shiming Zhang and I am part of t
 
 My research interests mainly focus on:
 
-
-
 - **Soft functional materials**, including semiconducting hydrogel, biomaterials, liquid metal, and their practical applications.
-- **Organic bioelectronics** based on organic mixed ion conductors (OMIXCs), particularly for wearable applications and healthcare monitoring.
+- **Organic bioelectronics** based on organic mixed ion conductors (OMIECs), particularly for wearable applications and healthcare monitoring.
 - **Brain-mimic Computing**, Neuromorphic computing and hardware implementation.
 
 📌 Feel free to reach out to discuss research collaboration or any other opportunities!
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.10*: &nbsp;🎉🎉 Our work about the stretchable, enhancement-mode PEDOT:PSS organic electrochemical transistors has been published on *Applied Physics Letter*.
+- *2024.10*: &nbsp;🎉🎉 Our work about the stretchable transistors for wearable in-sensor computing has been published on *Nature Electronics*. 
+- *2024.04*: &nbsp;🎉🎉 Our work about organic electrochemical transistors for continuous glucose monitoring (CGM) has been published on *Science Advances*!.
+- *2023.04*: &nbsp;🎉🎉 We wins a GOLD Medal with the PERfECT wearable project at the 48th International Exhibition of Inventions of Geneva (Geneva, Switzerland)!
+- *2022.09*: &nbsp;🎉🎉 PERfECT (A coin-sized wearable biosensing platform) is Reported by numerous government, technology, and academic media, including China Association for Science and Technology (Science and Technology Review), American Association for the Advancement of Science (AAAS), American Chemical Society (ACS), Physics.org (UK), China News Service, Innovation, Technology and Industry Bureau of Hong Kong, Guangdong Provincial Government, Sina, Sohu, Ta Kung Pao (Hong Kong), Wen Wei Po (Hong Kong), Engineer, HospiMedica, MorningNews, and BioSpectrum.
+- *2022.04*:&nbsp;🎉🎉 Our work, intrinsically stretchable rigid-device benchmarkable organic electrochemical transistors, is published on *Advanced Science* and is featured as the cover! 
+- *2022.02*: &nbsp;🎉🎉 Our work, the miniaturized PERfECT chip developed for wearable OECTs, is published on *Analytical Chemistry* and is featured as the cover! 
+- *2021.12*: &nbsp;🎉🎉 We successfully delivered the talk at MRS Fall 2021 on soft OECTs! 
 
 # 📝 Publications 
 
