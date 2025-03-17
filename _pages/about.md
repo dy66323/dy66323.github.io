@@ -1,4 +1,4 @@
----
+<img width="1164" alt="image" src="https://github.com/user-attachments/assets/a0d84eeb-7bcb-4269-97a2-ec4b4fd4127c" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -43,7 +43,7 @@ My research interests mainly focus on:
 
 # 📝 Publications 
 
-[**A wearable in-sensor computing platform based on stretchable organic electrochemical transistors**](https://www-nature-com.eproxy.lib.hku.hk/articles/s41928-024-01250-9) <img src='https://raw.githubusercontent.com/dy66323/dy66323.github.io/refs/heads/main/41928_2024_1250_Fig1_HTML.webp?style=social&label=Star' alt="stars" height="50%"> 
+[**A wearable in-sensor computing platform based on stretchable organic electrochemical transistors**](https://www-nature-com.eproxy.lib.hku.hk/articles/s41928-024-01250-9) <img src='https://raw.githubusercontent.com/dy66323/dy66323.github.io/refs/heads/main/41928_2024_1250_Fig1_HTML.webp?style=social&label=Star' aalt="stars" width="300px"> 
 
 **Dingyao Liu**, Xinyu Tian, Jing Bai, **Shiming Zhang**.
 
