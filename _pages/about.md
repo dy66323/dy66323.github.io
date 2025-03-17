@@ -47,7 +47,7 @@ My research interests mainly focus on:
 
 **Dingyao Liu**, Xinyu Tian, Jing Bai, **Shiming Zhang**.
 
-The lack of scalable fabrication methods for high-density, miniaturized stretchable OECT arrays restricts their widespread integration into wearable systems. To address this limitation, we developed a standardized inkjet printing protocol for fabricating intrinsically stretchable OECT arrays with high resolution, reproducibility, and yield. Leveraging a supramolecular adhesion layer to enhance the robustness of the soft semiconductor film under strain, we successfully demonstrated high-uniformity stable stretchable transistor arrays suitable for real-time, on-body sensing and in-sensor computing. This scalable approach marks significant progress toward practical wearable electronic systems capable of direct signal processing at the point of measurement.![image](https://github.com/user-attachments/assets/83c8efc2-5288-4daf-ab50-fa89be986fce)
+The lack of scalable fabrication methods for high-density, miniaturized stretchable OECT arrays restricts their widespread integration into wearable systems. To address this limitation, we developed a standardized inkjet printing protocol for fabricating intrinsically stretchable OECT arrays with high resolution, reproducibility, and yield. Leveraging a supramolecular adhesion layer to enhance the robustness of the soft semiconductor film under strain, we successfully demonstrated high-uniformity stable stretchable transistor arrays suitable for real-time, on-body sensing and in-sensor computing. This scalable approach marks significant progress toward practical wearable electronic systems capable of direct signal processing at the point of measurement.
 
 
 [**[paper]**](https://example.com/PERfECT-paper.pdf)  
