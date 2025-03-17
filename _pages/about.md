@@ -43,17 +43,17 @@ My research interests mainly focus on:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+[**PERfECT: A coin-sized wearable biosensing platform**](https://example.com/PERfECT-paper.pdf) <img src='https://img.shields.io/github/stars/your-repo/PERfECT.svg?style=social&label=Star' alt="stars" height="100%">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Dingyao Liu, **Shiming Zhang**, Zhongrui Wang, etc.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- A miniaturized biosensing system for continuous monitoring of physiological signals.
+- Integrated platform with biosensors, minimally invasive techniques, and advanced hydrogel interfaces.
+- Featured in top international and national science media such as AAAS, ACS, Physics.org, 新浪, 搜狐, and more.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+[**[paper]**](https://example.com/PERfECT-paper.pdf)  
+[**[code]**](https://github.com/your-repo/PERfECT)
+
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
