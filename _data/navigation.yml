@@ -5,18 +5,18 @@ main:
 
   - title: "News"
     url: "/#-news"
-
-   - title: "Publications"
-    url: "/#-publications"
-
+    
+  - title: "Publications"
+    url: "/#-publications"  
+    
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
-  
-  - title: "Conference"
-    url: "/#-Conference"
     
   - title: "Educations"
     url: "/#-educations"
-
+    
+  - title: "Conference"
+    url: "/#-invited-talks-and-report"
+    
   - title: "Teaching Services"
-    url: "/#-Teaching-Services"
+    url: "/#-internships-and-teaching-services"
