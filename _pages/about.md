@@ -42,9 +42,8 @@ My research interests mainly focus on:
 - *2021.12*: &nbsp;🎉🎉 We successfully delivered the talk at MRS Fall 2021 on soft OECTs! 
 
 # 📝 Publications 
-
-[**A wearable in-sensor computing platform based on stretchable organic electrochemical transistors**](https://www-nature-com.eproxy.lib.hku.hk/articles/s41928-024-01250-9) <img src='https://raw.githubusercontent.com/dy66323/dy66323.github.io/refs/heads/main/41928_2024_1250_Fig1_HTML.webp?style=social&label=Star' aalt="stars" width="300px"> 
-
+ <img src='https://raw.githubusercontent.com/dy66323/dy66323.github.io/refs/heads/main/41928_2024_1250_Fig1_HTML.webp?style=social&label=Star' aalt="stars" width="300px"> 
+[**A wearable in-sensor computing platform based on stretchable organic electrochemical transistors**](https://www-nature-com.eproxy.lib.hku.hk/articles/s41928-024-01250-9)
 **Dingyao Liu**, Xinyu Tian, Jing Bai, **Shiming Zhang**.
 
 The lack of scalable fabrication methods for high-density, miniaturized stretchable OECT arrays restricts their widespread integration into wearable systems. To address this limitation, we developed a standardized inkjet printing protocol for fabricating intrinsically stretchable OECT arrays with high resolution, reproducibility, and yield. Leveraging a supramolecular adhesion layer to enhance the robustness of the soft semiconductor film under strain, we successfully demonstrated high-uniformity stable stretchable transistor arrays suitable for real-time, on-body sensing and in-sensor computing. This scalable approach marks significant progress toward practical wearable electronic systems capable of direct signal processing at the point of measurement.
