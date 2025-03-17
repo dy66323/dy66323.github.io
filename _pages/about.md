@@ -1,4 +1,4 @@
----
+  ---
 permalink: /
 title: ""
 excerpt: ""
@@ -54,16 +54,29 @@ My research interests mainly focus on:
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023*, *Gold Medal*, 48th International Exhibition of Inventions Geneva  
+- *2018*, National Scholarship, Sichuan University  
+- *2016-2019*, National First-Class Fellowship, Sichuan University 
+- *2016*, Outstanding Graduate Cadre, Xi'an Jiaotong University  
+- *2014*, Pengkang Scholarship, Xi'an Jiaotong University  
+- *2013, 2015*, National Encouragement Scholarship, Xi'an Jiaotong University  
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **2021.04 – now**, Ph.D. candidate in Electrical and Electronic Engineering, The University of Hong Kong, Hong Kong SAR.
+- **2016.09 – 2019.06**, M.Eng. in Polymer Science and Engineering, Sichuan University, Chengdu, China.
+- **2012.09 – 2016.06**, B.Sc. in Applied Chemistry, Xi'an Jiaotong University, Xi'an, China.
+ 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Conference
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.04*, **A Fully-Integrated Wearable In-Sensor Computing Platform based on Intrinsically Stretchable Organic Electrochemical Transistors**, *Materials Research Society (MRS) Spring Meeting*, Seattle, WA, USA. *(Oral Presentation)*  
+
+- *2021.12*, **Performance Comparison and Optimization of Stretchable Organic Electrochemical Transistors on Soft Substrates**, *Materials Research Society (MRS) Fall Meeting*, Virtual Conference. *(Oral Presentation)*  
+
+
+# 💻 Teaching services
+- *2019.09 - 2021.01*, Research Assistant，the head of RA team, Sichuan University, China.
+- *2021.09 - 2021.12*  TA for Biomedical Engineering Laboratory, The University of Hong Kong
+- *2022.03 - 2022.07*  TA for Advanced Bioelectronics, The University of Hong Kong
+- *2022.09 - 2022.01*  TA for Biomedical Instrumentation and System, The University of Hong Kong
+- *2023.06 - 2024.01*  TA for Electric circuit theory, The University of Hong Kong
