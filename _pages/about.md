@@ -79,7 +79,7 @@ My research interests mainly focus on:
 
 
 # 💻 Teaching services
-- *2019.09 - 2021.01*, Research Assistant，the head of RA team, Sichuan University, China.
+- *2019.09 - 2021.01*, Research Assistant， Sichuan University, China.
 - *2021.09 - 2021.12*  TA for Biomedical Engineering Laboratory, The University of Hong Kong
 - *2022.03 - 2022.07*  TA for Advanced Bioelectronics, The University of Hong Kong
 - *2022.09 - 2022.01*  TA for Biomedical Instrumentation and System, The University of Hong Kong
