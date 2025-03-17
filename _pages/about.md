@@ -43,13 +43,12 @@ My research interests mainly focus on:
 
 # 📝 Publications 
 
-[**A wearable in-sensor computing platform based on stretchable organic electrochemical transistors**](https://www-nature-com.eproxy.lib.hku.hk/articles/s41928-024-01250-9) <img src='https://raw.githubusercontent.com/dy66323/dy66323.github.io/refs/heads/main/41928_2024_1250_Fig1_HTML.webp?style=social&label=Star' alt="stars" height="100%"> 
+[**A wearable in-sensor computing platform based on stretchable organic electrochemical transistors**](https://www-nature-com.eproxy.lib.hku.hk/articles/s41928-024-01250-9) <img src='https://raw.githubusercontent.com/dy66323/dy66323.github.io/refs/heads/main/41928_2024_1250_Fig1_HTML.webp?style=social&label=Star' alt="stars" height="50%"> 
 
-Dingyao Liu, **Shiming Zhang**, Zhongrui Wang, etc.
+**Dingyao Liu**, Xinyu Tian, Jing Bai, **Shiming Zhang**.
 
-- A miniaturized biosensing system for continuous monitoring of physiological signals.
-- Integrated platform with biosensors, minimally invasive techniques, and advanced hydrogel interfaces.
-- Featured in top international and national science media such as AAAS, ACS, Physics.org, 新浪, 搜狐, and more.
+The lack of scalable fabrication methods for high-density, miniaturized stretchable OECT arrays restricts their widespread integration into wearable systems. To address this limitation, we developed a standardized inkjet printing protocol for fabricating intrinsically stretchable OECT arrays with high resolution, reproducibility, and yield. Leveraging a supramolecular adhesion layer to enhance the robustness of the soft semiconductor film under strain, we successfully demonstrated high-uniformity stable stretchable transistor arrays suitable for real-time, on-body sensing and in-sensor computing. This scalable approach marks significant progress toward practical wearable electronic systems capable of direct signal processing at the point of measurement.![image](https://github.com/user-attachments/assets/83c8efc2-5288-4daf-ab50-fa89be986fce)
+
 
 [**[paper]**](https://example.com/PERfECT-paper.pdf)  
 [**[code]**](https://github.com/your-repo/PERfECT)
