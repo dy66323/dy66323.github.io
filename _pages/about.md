@@ -43,7 +43,7 @@ My research interests mainly focus on:
 
 # 📝 Publications 
 
-[**PERfECT: A coin-sized wearable biosensing platform**](https://example.com/PERfECT-paper.pdf) <img src='https://img.shields.io/github/stars/your-repo/PERfECT.svg?style=social&label=Star' alt="stars" height="100%">
+[**A wearable in-sensor computing platform based on stretchable organic electrochemical transistors**](https://www-nature-com.eproxy.lib.hku.hk/articles/s41928-024-01250-9) <img src='https://raw.githubusercontent.com/dy66323/dy66323.github.io/refs/heads/main/41928_2024_1250_Fig1_HTML.webp?style=social&label=Star' alt="stars" height="100%"> 
 
 Dingyao Liu, **Shiming Zhang**, Zhongrui Wang, etc.
 
