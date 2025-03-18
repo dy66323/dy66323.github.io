@@ -42,15 +42,34 @@ My research interests mainly focus on:
 - *2021.12*: &nbsp;🎉🎉 We successfully delivered the talk at MRS Fall 2021 on soft OECTs! 
 
 # 📝 Publications 
- <img src='https://raw.githubusercontent.com/dy66323/dy66323.github.io/refs/heads/main/41928_2024_1250_Fig1_HTML.webp?style=social&label=Star' aalt="stars" width="300px"> 
+ <div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Nature Electronics 2024</div>
+      <img src='https://raw.githubusercontent.com/dy66323/dy66323.github.io/refs/heads/main/41928_2024_1250_Fig1_HTML.webp?style=social&label=Star' alt="stars" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
 [**A wearable in-sensor computing platform based on stretchable organic electrochemical transistors**](https://www-nature-com.eproxy.lib.hku.hk/articles/s41928-024-01250-9)
-**Dingyao Liu**, Xinyu Tian, Jing Bai, **Shiming Zhang**.
 
-The lack of scalable fabrication methods for high-density, miniaturized stretchable OECT arrays restricts their widespread integration into wearable systems. To address this limitation, we developed a standardized inkjet printing protocol for fabricating intrinsically stretchable OECT arrays with high resolution, reproducibility, and yield. Leveraging a supramolecular adhesion layer to enhance the robustness of the soft semiconductor film under strain, we successfully demonstrated high-uniformity stable stretchable transistor arrays suitable for real-time, on-body sensing and in-sensor computing. This scalable approach marks significant progress toward practical wearable electronic systems capable of direct signal processing at the point of measurement.
+**Dingyao Liu**, Xinyu Tian, Jing Bai, Shaocong Wang, **Shiming Zhang**.
 
+- Developed a standardized inkjet printing protocol enabling high-density, miniaturized, intrinsically stretchable organic electrochemical transistor (OECT) arrays 
+- Developed a supramolecular adhesion layer to significantly enhance the mechanical stability and uniformity of soft semiconductor films under strain
+- Demonstrated stable and uniform stretchable transistor arrays capable of real-time, on-body sensing and direct signal processing at the measurement point, representing a substantial advancement   toward practical wearable electronics applications.
+<div style="display: inline">
+    <a href="https://connecthkuhk-my.sharepoint.com/:b:/g/personal/dingyao6_connect_hku_hk/ER73MdqtMtNLjs-uB9xPeiQB5pkbN7MHWA_wSR-bi6mWog?e=U6jk5e"> <strong>[paper]</strong></a>
+    <a href="https://github.com/HKU-WISE-Group/OECT-RC"> <strong>[code]</strong></a>
+    <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()"><strong>[abstract]</strong></a>
+    <div class="abstract" style="overflow: hidden; display: none;">
+      Organic electrochemical transistors could be used in in-sensor computing and wearable healthcare applications. However, they lack the conformity and stretchability needed to minimize mechanical mismatch between the devices and human body, are challenging to fabricate at a scale with small feature sizes and high density, and require miniaturized readout systems for practical on-body applications. Here we report a wearable in-sensor computing platform based on stretchable organic electrochemical transistor arrays. The platform offers more than 50% stretchability by using an adhesive supramolecular buffer layer during fabrication that improves robustness at interfaces under strain. We fabricate stretchable transistor arrays with feature sizes down to 100 μm using a high-resolution six-channel inkjet printing system. We also develop a coin-sized data readout system for biosignal acquisition. We show that our coin-sized, smartwatch-compatible electronic module can provide wearable in-sensor edge computing.
+    </div>
+</div>
 
-[**[paper]**](https://example.com/PERfECT-paper.pdf)  
-[**[code]**](https://github.com/your-repo/PERfECT)
+  </div>
+</div>
+
 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
