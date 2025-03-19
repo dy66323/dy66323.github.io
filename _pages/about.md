@@ -129,6 +129,35 @@ Jing Bai†,**Dingyao Liu†** (contributed equally), Xinyu Tian†, Yan Wang, B
 </div>
 
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Science Advances 2024</div>
+     <img src="https://www.dropbox.com/scl/fi/ufs9g6ysn11e81ld3szwz/tian-et-al-2022-pushing-oects-toward-wearable-development-of-a-miniaturized-analytical-control-unit-for-wireless-device-1.jpg?rlkey=6zyn6hfh3soe3c4uednjlh9b5&raw=1" alt="stars" width="100%">
+      
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    
+- [**Pushing OECTs toward Wearable: Development of a Miniaturized Analytical Control Unit for Wireless Device Characterization**](https://pubs.acs.org/doi/abs/10.1021/acs.analchem.1c05210)
+
+Xinyu Tian†, **Dingyao Liu†**(contributed equally),  Jing Bai, Kai Shan Chan, Long Ching Ip, Paddy K. L. Chan, Shiming Zhang*.
+
+- Reports the first miniaturized, wireless readout unit for OECT Characterization (i.e., Personalized Electronical Reader for Electrochemical Transistors (PERfECT)).
+- Demonstrates that PERfECT can measure key OECT characteristics (transfer, output, hysteresis, and transient behavior) with resolution and sampling rate comparable to bulky laboratory equipment 
+- Develops an integrated board supporting 32-channel multiplexed OECT characterization,paving the way for next-generation digital wearable bioelectronics that require multi-sensor integration for continuous health monitoring.
+<div style="display: inline">
+    <a href="https://www.dropbox.com/scl/fi/mzeubgmuh2yowh8cavw2z/tian-et-al-2022-pushing-oects-toward-wearable-development-of-a-miniaturized-analytical-control-unit-for-wireless-device-1.pdf?rlkey=yfa5sikitwxtbtex20dctisav&dl=0"> <strong>[paper]</strong></a>
+    <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()"><strong>[abstract]</strong></a>
+    <div class="abstract" style="overflow: hidden; display: none;">
+       Organic electrochemical transistors (OECTs) have emerged as a next-generation biosensing technology because of their water-stability, cost-effectiveness, and ability to obtain high sensitivity at low operation voltage (mV). However, a miniaturized readout unit that can wirelessly characterize the overall performance of an OECT is still missing, which hinders the assembling of truly wearable OECT systems for continuous health-monitoring applications. In this work, we present a coin-sized analytical unit for remote and wireless OECT characterization, namely, a personalized electronic reader for electrochemical transistors (PERfECT). It has been verified that PERfECT can measure the transfer, output, hysteresis, and transient behavior of OECTs with resolution and sampling rate on par with the bulky equipment used in laboratories. PERfECT is also capable of characterizing other low-voltage transistors. An integrated board for multiplexed OECT characterizations (32 channels) has also been demonstrated. This work provides a missing building block for developing next-generation OECT-based bioelectronics for digital wearable applications.
+    </div>
+</div>
+
+  </div>
+</div>
+
+
 
 # 🎖 Honors and Awards
 - *2023*, *Gold Medal*, 48th International Exhibition of Inventions Geneva  
