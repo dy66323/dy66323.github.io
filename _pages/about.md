@@ -53,7 +53,7 @@ My research interests mainly focus on:
 
 -[**A wearable in-sensor computing platform based on stretchable organic electrochemical transistors**](https://www.nature.com/articles/s41928-024-01250-9)
 
-**Dingyao Liu**, Xinyu Tian, Jing Bai, Shaocong Wang, Shiming Zhang*.
+**Dingyao Liu**, Xinyu Tian, Jing Bai, Shaocong Wang, Zhongrui Wang*, Shiming Zhang*.
 
 - Developed a standardized inkjet printing protocol enabling high-density, miniaturized, intrinsically stretchable organic electrochemical transistor (OECT) arrays 
 - Developed a supramolecular adhesion layer to significantly enhance the mechanical stability and uniformity of soft semiconductor films under strain
@@ -103,7 +103,7 @@ Jing Bai†,**Dingyao Liu†** (contributed equally), Xinyu Tian†, Yan Wang, B
  <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Advance的 Science 2022</div>
+      <div class="badge">Advanced Science 2022</div>
      <img src="https://www.dropbox.com/scl/fi/ef6mf6mxnfven5vtk5z9f/Advanced-Science-2022-Liu-Intrinsically-Stretchable-Organic-Electrochemical-Transistors-with-1.jpg?rlkey=6ri9r37law8xqm4gqbf2vuq4f&raw=1" alt="stars" width="100%">
       
     </div>
@@ -150,6 +150,34 @@ Xinyu Tian†, **Dingyao Liu†**(contributed equally),  Jing Bai, Kai Shan Chan
     <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()"><strong>[abstract]</strong></a>
     <div class="abstract" style="overflow: hidden; display: none;">
        Organic electrochemical transistors (OECTs) have emerged as a next-generation biosensing technology because of their water-stability, cost-effectiveness, and ability to obtain high sensitivity at low operation voltage (mV). However, a miniaturized readout unit that can wirelessly characterize the overall performance of an OECT is still missing, which hinders the assembling of truly wearable OECT systems for continuous health-monitoring applications. In this work, we present a coin-sized analytical unit for remote and wireless OECT characterization, namely, a personalized electronic reader for electrochemical transistors (PERfECT). It has been verified that PERfECT can measure the transfer, output, hysteresis, and transient behavior of OECTs with resolution and sampling rate on par with the bulky equipment used in laboratories. PERfECT is also capable of characterizing other low-voltage transistors. An integrated board for multiplexed OECT characterizations (32 channels) has also been demonstrated. This work provides a missing building block for developing next-generation OECT-based bioelectronics for digital wearable applications.
+    </div>
+</div>
+
+  </div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">In submission 2025</div>
+     <img src="https://www.dropbox.com/scl/fi/eb9r89vd4plyr1f8k7nnx/SCH.jpg?rlkey=zxi0tdwk7j2o1gaxx3xk8s5r7&raw=1" alt="stars" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    
+- [**Increasing the Dimensionality of Transistors with Hydrogel**]
+
+ **Dingyao Liu†**, Jing Bai†, Xinyu Tian†, George Malliaras*, Shiming Zhang*.
+
+- Develops a 3D Semiconductor with bulk modulation capabilities in a large range of thickness (up to 1 mm) with hydrogel engineering
+- Develops the hydrogel semiconductor with tissue-like mechanical modulus (10-100 kPa), which is compatible with living systems.
+- Establishes a scalable protocol for fabricating 3D hydrogel semiconductors and demonstrates their potential in 3D transistors, brain-inspired 3D soft neuroelectronic circuits, and cell-transistor integration.
+<div style="display: inline">
+    <a href="//"> <strong>[paper]</strong></a>
+    <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()"><strong>[abstract]</strong></a>
+    <div class="abstract" style="overflow: hidden; display: none;">
+    In recent years, 3D transistors have been pursued to extend Moore's Law. They are also highly desired in the field of bioelectronics to bridge the dimensional gap between 2D transistors and 3D living systems. However, this presents material challenges, as conventional semiconductors are inherently 2D in both architecture and modulation. Breaking the dimensional limits of transistors requires 3D semiconductors that integrate inherently conflicting properties, such as 3D architectures and 3D modulation. Furthermore, applications at the soft biological interface demand semiconductors with bio-level modulus and     stretchability. Such a semiconductor remains missing. In this work: i) We present a new material concept—the 3D semiconductor—achieved by integrating hydrogels, semiconductors, and electrochemistry. ii) These 3D hydrogel semiconductors achieve 3D bulk-modulation at millimeter-scale thicknesses, far surpassing the microscale limitations of current semiconductors. iii) Using the 3D semiconductor, we have, for the first time, created 3D transistors and 3D brain-inspired neuroelectronic circuits. These devices feature low modulus and high stretchability, bridging the long-standing gap between existing transistors and living systems. Our work addresses critical technological challenges in pursuing 3D transistors, enabling the creation of bioelectronic devices that can better interface with living systems. This approach has the potential to serve as a universal method for systematically enhancing the functionality of existing semiconductor devices while being broadly applicable to other fields. The methodology presented here provides a valuable reference not only for the semiconductor community but also for researchers across interdisciplinary domains such as bioelectronics, materials science, and neuroscience. 
     </div>
 </div>
 
