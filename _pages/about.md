@@ -60,7 +60,6 @@ My research interests mainly focus on:
 - Demonstrated stable and uniform stretchable transistor arrays capable of real-time, on-body sensing and direct signal processing at the measurement point, representing a substantial advancement   toward practical wearable electronics applications.
 <div style="display: inline">
     <a href="https://connecthkuhk-my.sharepoint.com/:b:/g/personal/dingyao6_connect_hku_hk/ER73MdqtMtNLjs-uB9xPeiQB5pkbN7MHWA_wSR-bi6mWog?e=U6jk5e"> <strong>[paper]</strong></a>
-    <a href="https://github.com/HKU-WISE-Group/OECT-RC"> <strong>[code]</strong></a>
     <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()"><strong>[abstract]</strong></a>
     <div class="abstract" style="overflow: hidden; display: none;">
       Organic electrochemical transistors could be used in in-sensor computing and wearable healthcare applications. However, they lack the conformity and stretchability needed to minimize mechanical mismatch between the devices and human body, are challenging to fabricate at a scale with small feature sizes and high density, and require miniaturized readout systems for practical on-body applications. Here we report a wearable in-sensor computing platform based on stretchable organic electrochemical transistor arrays. The platform offers more than 50% stretchability by using an adhesive supramolecular buffer layer during fabrication that improves robustness at interfaces under strain. We fabricate stretchable transistor arrays with feature sizes down to 100 μm using a high-resolution six-channel inkjet printing system. We also develop a coin-sized data readout system for biosignal acquisition. We show that our coin-sized, smartwatch-compatible electronic module can provide wearable in-sensor edge computing.
@@ -168,7 +167,7 @@ Xinyu Tian†, **Dingyao Liu†**(contributed equally),  Jing Bai, Kai Shan Chan
     
 - [**Increasing the Dimensionality of Transistors with Hydrogel**]
 
- **Dingyao Liu**, Jing Bai, Xinyu Tian, George Malliaras*, Shiming Zhang*.
+ **Dingyao Liu**, George Malliaras*, Shiming Zhang*.
 
 - Develops a 3D Semiconductor with bulk modulation capabilities in a large range of thickness (up to 1 mm) with hydrogel engineering
 - Develops the hydrogel semiconductor with tissue-like mechanical modulus (10-100 kPa), which is compatible with living systems.
@@ -196,7 +195,7 @@ Xinyu Tian†, **Dingyao Liu†**(contributed equally),  Jing Bai, Kai Shan Chan
     
 - [**Electrochemical Transistor Resonance Spectroscopy**]
 
-Xinyu Tian†, **Dingyao Liu†**(contributed equally), Jing Bai†,  Shiming Zhang*.
+**Dingyao Liu†**, Shiming Zhang*.
 
 - First time introduces the Electrochemical Transistor Resonance Spectroscopy (ETRS) as a Novel Sensing Concept.
 - Breakthrough in Detection Limit Enhancement via Resonance Frequency Optimization.
