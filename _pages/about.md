@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hi, this is **Dingyao LIU**'s website.
-I am currently a PhD candidate in the department of electrical and electronics engineering, advised by [Prof. Shiming Zhang](https://scholar.google.com/citations?user=P_cYer0AAAAJ&hl=en&oi=ao). And I also cooperated with [Prof. Zhongrui Wang](https://scholar.google.com/citations?user=Ofl3nUsAAAAJ&hl=en&oi=ao) in neuromorphic computing and [Prof. George Malliaras](https://scholar.google.com/citations?user=66BcnF0AAAAJ&hl=en&oi=ao] in bioelectronics.
+I am currently a PhD candidate in the department of electrical and electronics engineering, advised by [Prof. Shiming Zhang](https://scholar.google.com/citations?user=P_cYer0AAAAJ&hl=en&oi=ao). And I also cooperated with [Prof. Zhongrui Wang](https://scholar.google.com/citations?user=Ofl3nUsAAAAJ&hl=en&oi=ao) in neuromorphic computing and [Prof. George Malliaras](https://scholar.google.com/citations?user=66BcnF0AAAAJ&hl=en&oi=ao) in bioelectronics.
 
 ⛵ **Now, I am actively seeking a research faculty position and excited about new collaborative opportunities!**
 
