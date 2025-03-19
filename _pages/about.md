@@ -24,9 +24,9 @@ I am currently a PhD candidate in the department of electrical and electronics e
 
 My research interests mainly focus on:
 
+- **Organic bioelectronics** based on organic mixed ion conductors (OMIECs), particularly for healthcare monitoring and wearable applications.
+- **Brain-mimic Computing**, Neuromorphic computing and their hardware implementation.
 - **Soft functional materials**, including semiconducting hydrogel, biomaterials, liquid metal, and their practical applications.
-- **Organic bioelectronics** based on organic mixed ion conductors (OMIECs), particularly for wearable applications and healthcare monitoring.
-- **Brain-mimic Computing**, Neuromorphic computing and hardware implementation.
 
 📌 Feel free to reach out to discuss research collaboration or any other opportunities!
 
@@ -51,9 +51,9 @@ My research interests mainly focus on:
   </div>
   <div class='paper-box-text' markdown="1">
 
-[**A wearable in-sensor computing platform based on stretchable organic electrochemical transistors**](https://www-nature-com.eproxy.lib.hku.hk/articles/s41928-024-01250-9)
+-[**A wearable in-sensor computing platform based on stretchable organic electrochemical transistors**](https://www.nature.com/articles/s41928-024-01250-9)
 
-**Dingyao Liu**, Xinyu Tian, Jing Bai, Shaocong Wang, **Shiming Zhang**.
+**Dingyao Liu**, Xinyu Tian, Jing Bai, Shaocong Wang, Shiming Zhang*.
 
 - Developed a standardized inkjet printing protocol enabling high-density, miniaturized, intrinsically stretchable organic electrochemical transistor (OECT) arrays 
 - Developed a supramolecular adhesion layer to significantly enhance the mechanical stability and uniformity of soft semiconductor films under strain
@@ -71,8 +71,32 @@ My research interests mainly focus on:
 </div>
 
 
+ <div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Science Advances 2024</div>
+      <img src='https://www.dropbox.com/scl/fi/x8icu3sudtyu9hqnfdnf8/OECT_CGM.png?rlkey=9f2on2b9ebr5umaq513gm2slo&dl=0?style=social&label=Star' alt="stars" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    
+- [**Coin-sized, fully integrated, and minimally invasive continuous glucose monitoring system based on organic electrochemical transistors**](https://www-nature-com.eproxy.lib.hku.hk/articles/s41928-024-01250-9)
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+Jing Bai†,**Dingyao Liu†** (contributed equally), Xinyu Tian†, Yan Wang, Binbin Cui, Yilin Yang, Shilei Dai, Wensheng Lin, Jiaxiang Zhu, Jinqiang Wang, Aimin Xu, Zhen Gu, Shiming Zhang*.
+
+- Developed a fully integrated continuous glucose monitoring (CGM) system with organic electrochemical transistors (OECT) as the transducers.  
+- Developed a  microneedle array, enabling subcutaneous glucose sampling with minimal pain, and a soft hydrogel interface that ensures stable skin-device interaction
+- Proposed CGM integrates OECT-based biochemical signal amplification, significantly improving the SNR beyond traditional electrochemical sensors.
+<div style="display: inline">
+    <a href="https://www.dropbox.com/scl/fi/5n7oyu74asjcfc552yfkt/OECT_CGM.pdf?rlkey=u6g5b7ur92k8rre13qrbqzm9x&dl=0"> <strong>[paper]</strong></a>
+    <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()"><strong>[abstract]</strong></a>
+    <div class="abstract" style="overflow: hidden; display: none;">
+      Continuous glucose monitoring systems (CGMs) are critical toward closed-loop diabetes management. The field’s progress urges next-generation CGMs with enhanced antinoise ability, reliability, and wearability. Here, we propose a coin-sized, fully integrated, and wearable CGM, achieved by holistically synergizing state-of-the-art interdisciplinary technologies of biosensors, minimally invasive tools, and hydrogels. The proposed CGM consists of three major parts: (i) an emerging biochemical signal amplifier, the organic electrochemical transistor (OECT), improving the signal-to-noise ratio (SNR) beyond traditional electrochemical sensors; (ii) a microneedle array to facilitate subcutaneous glucose sampling with minimized pain; and (iii) a soft hydrogel to stabilize the skin-device interface. Compared to conventional CGMs, the OECT-CGM offers a high antinoise ability, tunable sensitivity and resolution, and comfort wearability, enabling personalized glucose sensing for future precision diabetes health care. Last, we discuss how OECT technology can help push the limit of detection of current wearable electrochemical biosensors, especially when operating in complicated conditions.
+    </div>
+</div>
+
+  </div>
+</div>
 
 # 🎖 Honors and Awards
 - *2023*, *Gold Medal*, 48th International Exhibition of Inventions Geneva  
