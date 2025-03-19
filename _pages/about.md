@@ -139,7 +139,7 @@ Jing Bai†,**Dingyao Liu†** (contributed equally), Xinyu Tian†, Yan Wang, B
     
 - [**Pushing OECTs toward Wearable: Development of a Miniaturized Analytical Control Unit for Wireless Device Characterization**](https://pubs.acs.org/doi/abs/10.1021/acs.analchem.1c05210)
 
-Xinyu Tian†, **Dingyao Liu†**(contributed equally),  Jing Bai, Kai Shan Chan, Long Ching Ip, Paddy K. L. Chan* , Shiming Zhang*.
+Xinyu Tian†, **Dingyao Liu†**(contributed equally),  Jing Bai, Kai Shan Chan, Long Ching Ip, Paddy K. L. Chan, Shiming Zhang*.
 
 - Reports the first miniaturized, wireless readout unit for OECT Characterization (i.e., Personalized Electronical Reader for Electrochemical Transistors (PERfECT)).
 - Demonstrates that PERfECT can measure key OECT characteristics (transfer, output, hysteresis, and transient behavior) with resolution and sampling rate comparable to bulky laboratory equipment 
@@ -167,7 +167,7 @@ Xinyu Tian†, **Dingyao Liu†**(contributed equally),  Jing Bai, Kai Shan Chan
     
 - [**Increasing the Dimensionality of Transistors with Hydrogel**]
 
- **Dingyao Liu**, George Malliaras*, Shiming Zhang*.
+ **Dingyao Liu**, George Malliaras* , Shiming Zhang*.
 
 - Develops a 3D Semiconductor with bulk modulation capabilities in a large range of thickness (up to 1 mm) with hydrogel engineering
 - Develops the hydrogel semiconductor with tissue-like mechanical modulus (10-100 kPa), which is compatible with living systems.
