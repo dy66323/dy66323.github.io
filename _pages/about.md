@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/398f199b-8528-4df5-961c-2dd89ed403d6)---
 permalink: /
 title: ""
 excerpt: ""
@@ -112,7 +112,7 @@ Jing Bai†,**Dingyao Liu†** (contributed equally), Xinyu Tian†, Yan Wang, B
     
 - [**Intrinsically Stretchable Organic Electrochemical Transistors with Rigid-Device-Benchmarkable Performance**](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202203418)
 
-**Dingyao Liu†**, Xinyu Tian†, Jing Bai†, Yan Wang, Yixun Cheng, Weijie Ning, Paddy K. L. Chan, Kai Wu, Junqi Sun, Shiming Zhang*.
+**Dingyao Liu†**, Xinyu Tian†, Jing Bai, Yan Wang, Yixun Cheng, Weijie Ning, Paddy K. L. Chan, Kai Wu, Junqi Sun, Shiming Zhang*.
 
 - Reports the first intrinsically stretchable OECTs that achieve overall performance comparable to conventional rigid devices, overcoming a long-standing limitation in soft OECT devices.
 - Reveals the significant impact of oxygen levels in soft substrates on device behavior. 
@@ -134,7 +134,6 @@ Jing Bai†,**Dingyao Liu†** (contributed equally), Xinyu Tian†, Yan Wang, B
     <div>
       <div class="badge">Analytical Chemistry 2022</div>
      <img src="https://www.dropbox.com/scl/fi/ufs9g6ysn11e81ld3szwz/tian-et-al-2022-pushing-oects-toward-wearable-development-of-a-miniaturized-analytical-control-unit-for-wireless-device-1.jpg?rlkey=6zyn6hfh3soe3c4uednjlh9b5&raw=1" alt="stars" width="100%">
-      
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -156,6 +155,37 @@ Xinyu Tian†, **Dingyao Liu†**(contributed equally),  Jing Bai, Kai Shan Chan
 
   </div>
 </div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">In submission 2025</div>
+     <img src="https://www.dropbox.com/scl/fi/rw0b7omzd13su4ixrs0dr/ETRS.jpg?rlkey=80muz2f311mu3pwu3dkq5qocl&raw=1" alt="stars" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    
+- [**Electrochemical Transistor Resonance Spectroscopy**]
+
+Xinyu Tian†, **Dingyao Liu†**(contributed equally), Jing Bai†,  Shiming Zhang*.
+
+- First time introduces the Electrochemical Transistor Resonance Spectroscopy (ETRS) as a Novel Sensing Concept.
+- Breakthrough in Detection Limit Enhancement via Resonance Frequency Optimization.
+- Develops of a Miniaturized ETRS Readout System for Wearable Applications.
+<div style="display: inline">
+    <a href="//"> <strong>[paper]</strong></a>
+    <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()"><strong>[abstract]</strong></a>
+    <div class="abstract" style="overflow: hidden; display: none;">
+       Organic electrochemical transistors (OECTs) have been increasingly used in wearable and implantable healthcare applications. However, existing OECT-based sensors have shown mixed results when detecting biochemical signals. An integrated sensing method that can exploit the full potential of OECTs in advancing conventional three-electrode electrochemical systems is still lacking. In this work, we present the Electrochemical Transistor Resonance Spectroscopy (ETRS), an integrated sensing concept achieved by synergizing interdisciplinary technologies across electrochemistry, microelectronics, and artificial intelligence. We show that ETRS is validated that can overcome the detection limit of current electrochemical sensors. In ETRS, the stimulating voltage is scanned over a wide frequency range. A resonance frequency can be identified which corresponds to the highest sensitivity. This resonance indicates an optimal synergy is reached between the detecting electrodes and the transistor, pushing the limit of detection (LoD) orders of magnitude lower than the referencing three-electrode electrochemical methods. We also developed a coin-sized ETRS readout system and validated the efficacy of ETRS in pushing the LoD of wearable biosensors and beyond.
+    </div>
+</div>
+
+  </div>
+</div>
+
+
+
 
 
 
