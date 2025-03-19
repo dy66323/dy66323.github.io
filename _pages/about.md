@@ -213,7 +213,59 @@ Xinyu Tian†, **Dingyao Liu†**(contributed equally), Jing Bai†,  Shiming Zh
 </div>
 
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ACS Nano 2021</div>
+     <img src="https://www.dropbox.com/scl/fi/vis5mau09go5w5bvckizd/liu-et-al-2020-a-multidirectionally-thermoconductive-phase-change-material-enables-high-and-durable-electricity-via.jpg?rlkey=z1k2qwhkj26oppbx8oiqs1lsx&raw=1" alt="stars" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    
+- [**A Multidirectionally Thermoconductive PhaseChange Material Enables High and DurableElectricity via Real-Environment Solar−Thermal−Electric Conversion**](https://pubs.acs.org/doi/abs/10.1021/acsnano.0c06680)
 
+**Dingyao Liu**, Chuxin Lei, Kai Wu, Qiang Fu*.
+
+- Develops a biomimetic phase-change composite with a centrosymmetric and multidirectionally aligned boron nitride network in polyethylene glycol, significantly improving thermal conductivity and heat transfer uniformity.
+- Demonstrates that integrating this high-performance PCM with a solar thermoelectric generator (STEG) enables a photothermal energy conversion efficiency of up to 85.1%, surpassing previous STEG designs.
+- Designs a powerful and durable STEG system that achieves a peak power density of 40.28 W/m², more than doubling conventional STEG performance (<15 W/m²), offering a scalable solution for real-environment solar energy harvesting.
+<div style="display: inline">
+    <a href="https://www.dropbox.com/scl/fi/h4uwad2q3dhyuswlfg84t/liu-et-al-2020-a-multidirectionally-thermoconductive-phase-change-material-enables-high-and-durable-electricity-via.pdf?rlkey=au9mmjjjvseh7i7w1agepozd3&dl=0"> <strong>[paper]</strong></a>
+    <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()"><strong>[abstract]</strong></a>
+    <div class="abstract" style="overflow: hidden; display: none;">
+       A solar thermoelectric generator (STEG) that generates electricity from sunlight is expected to be a promising technology for harvesting and conversion of clean solar energy. The integration of a phase-change material (PCM) with the STEG even more enables engines to durably generate power in spite of solar radiation flux. However, its photothermal conversion and output electricity is still limited (<15 W/m2) by the PCM’s deficient thermal management performance, i.e., restricted thermal conductivity and nonuniform heat-transfer behavior under concentrated sunlight radiation. In this study, a biomimetic phase-change composite, with centrosymmetric and a multidirectionally aligned boron nitride network embedded in polyethylene glycol, is tailored for the STEG via a radial ice-template assembly and infiltration strategy, which behaves in a highly and multidirectionally thermoconductive way and enables a rapid transfer of heat flux and uniform temperature distribution with respect to even a spot-like heat source. As a consequence, a powerful STEG is tactfully designed via the integration of this high-thermal-management characteristic and maximum collection of solar beams, for durable and real-environment solar–thermal–electric conversion, with its photothermal energy conversion efficiency of up to 85.1% and a high peak power density of 40.28 W/m2.
+    </div>
+</div>
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Materials Horizon 2021</div>
+     <img src="https://www.dropbox.com/scl/fi/ak7wiqvueahkjc2sws7bo/d1mh01746b.jpg?rlkey=xv540wwikokjz9sx771caucpy&raw=1" alt="stars" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    
+- [**Highly thermoconductive yet ultraflexible polymer composites with superior mechanical properties and autonomous self-healing functionality via a binary filler strategy**](https://pubs.rsc.org/en/content/articlelanding/2022/mh/d1mh01746b/unauth)
+
+ Dong Wang†, **Dingyao Liu†**(contributed equally), Jianhua Xu, Jiajun Fu, Kai Wu*.
+
+- Develops a mechanochemistry-based method to modify liquid metal, and unveils the interaction between liquid metal (LM) and inorganic solids modifier.
+- The modified liquid metal can be easily incorporated into polymer blends (poly(urea–urethane) elastomer in this case) without any leakage and achieves a unique combination of high in-plane thermal conductivity and excellent mechanical flexibility.
+- Demonstrates spontaneous self-recoverability and room-temperature self-healing.
+<div style="display: inline">
+    <a href="https://www.dropbox.com/scl/fi/vl52xi0o8cyf3ntyn9cej/d1mh01746b.pdf?rlkey=iq5j600x4dgydiaottq9fj2c0&dl=0"> <strong>[paper]</strong></a>
+    <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()"><strong>[abstract]</strong></a>
+    <div class="abstract" style="overflow: hidden; display: none;">
+       The ideal thermal dissipation materials for flexible electronics should possess high thermal conductivity, excellent mechanical toughness, compliance for poking, bending, twisting, and stretching, and spontaneous self-healing to adapt to the complex application environment. However, creating these materials is challenging due to the intrinsic thermal–mechanical–healing contradictions. Here, we design an elaborate thermally conductive composite, fabricated by an ingenious method of embedding boron nitride nanosheets–liquid metal (BNNSs–LM) binary fillers into a self-healing poly(urea–urethane) elastomer (PUUE). The synergy of the hybrid structure of binary fillers and PUUE with desirable mechanical properties perfectly balances these mutually exclusive attributes: (1) LM could bridge adjacent BNNSs typically at the stretched state while rigid BNNSs serve as electrical barriers, promoting the formation of synergistic thermal pathways for high thermal conductivity yet good electrical insulation; (2) depending on the liquid feature of LM and intermolecular/interfacial noncovalent bonds, our composite exhibits low modulus, high stretchability, excellent toughness and, most notably, impressive notch-insensitiveness and self-recoverability after large deformation; (3) the dynamic intermolecular/interfacial noncovalent bonds enable the composite to autonomously restore the mechanical properties and thermo-conductive functionality at room temperature. The advanced thermally conductive composite demonstrates potential for applications in thermal interface materials, electronic packaging materials or organic substrates in flexible electronics.
+    </div>
+</div>
+
+  </div>
+</div>
 
 
 
