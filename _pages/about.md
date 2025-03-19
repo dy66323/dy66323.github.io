@@ -99,6 +99,37 @@ Jing Bai†,**Dingyao Liu†** (contributed equally), Xinyu Tian†, Yan Wang, B
   </div>
 </div>
 
+
+ <div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Science Advances 2024</div>
+     <img src="https://www.dropbox.com/scl/fi/ef6mf6mxnfven5vtk5z9f/Advanced-Science-2022-Liu-Intrinsically-Stretchable-Organic-Electrochemical-Transistors-with-1.jpg?rlkey=6ri9r37law8xqm4gqbf2vuq4f&raw=1" alt="stars" width="100%">
+      
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    
+- [**Intrinsically Stretchable Organic Electrochemical Transistors with Rigid-Device-Benchmarkable Performance**](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202203418)
+
+**Dingyao Liu†**, Xinyu Tian†, Jing Bai†, Yan Wang, Yixun Cheng, Weijie Ning, Paddy K. L. Chan, Kai Wu, Junqi Sun, Shiming Zhang*.
+
+- Reports the first intrinsically stretchable OECTs that achieve overall performance comparable to conventional rigid devices, overcoming a long-standing limitation in soft OECT devices.
+- Reveals the significant impact of oxygen levels in soft substrates on device behavior. 
+- The intrinsically stretchable OECTs devices can maintain functionality after cyclic mechanical deformation.
+<div style="display: inline">
+    <a href="https://www.dropbox.com/scl/fi/kaio5arbhicid19fexd2o/Advanced-Science-2022-Liu-Intrinsically-Stretchable-Organic-Electrochemical-Transistors-with-1.pdf?rlkey=joxvvh76v53d8w2meaa98rh9u&dl=0"> <strong>[paper]</strong></a>
+    <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()"><strong>[abstract]</strong></a>
+    <div class="abstract" style="overflow: hidden; display: none;">
+       Intrinsically stretchable organic electrochemical transistors (OECTs) are being pursued as the next-generation tissue-like bioelectronic technologies to improve the interfacing with the soft human body. However, the performance of current intrinsically stretchable OECTs is far inferior to their rigid counterparts. In this work, for the first time, the authors report intrinsically stretchable OECTs with overall performance benchmarkable to conventional rigid devices. In particular, oxygen level in the stretchable substrate is revealed to have a significant impact on the on/off ratio. By employing stretchable substrates with low oxygen permeabilities, the on/off ratio is elevated from ≈10 to a record-high value of ≈104, which is on par with a rigid OECT. The device remained functional after cyclic stretching tests. This work demonstrates that intrinsically stretchable OECTs have the potential to serve as a new building block for emerging soft bioelectronic applications such as electronic skin, soft implantables, and soft neuromorphic computing.
+    </div>
+</div>
+
+  </div>
+</div>
+
+
+
 # 🎖 Honors and Awards
 - *2023*, *Gold Medal*, 48th International Exhibition of Inventions Geneva  
 - *2018*, National Scholarship, Sichuan University  
