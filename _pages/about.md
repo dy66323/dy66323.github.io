@@ -75,7 +75,8 @@ My research interests mainly focus on:
   <div class='paper-box-image'>
     <div>
       <div class="badge">Science Advances 2024</div>
-     <img src="https://www.dropbox.com/scl/fi/x8icu3sudtyu9hqnfdnf8/OECT_CGM.png?rlkey=9f2on2b9ebr5umaq513gm2slo&raw=1" alt="OECT_CGM" width="100%">
+     <img src="https://www.dropbox.com/scl/fi/pj9x3lxm9j7lbow6kzwcn/OECT_CGM.jpg?rlkey=spgxgvaheqd02xmb4a51y23eg&raw=1" alt="stars" width="100%">
+      
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
