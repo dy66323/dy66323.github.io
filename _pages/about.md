@@ -103,7 +103,7 @@ Jing Bai†,**Dingyao Liu†** (contributed equally), Xinyu Tian†, Yan Wang, B
  <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Science Advances 2024</div>
+      <div class="badge">Advance的 Science 2022</div>
      <img src="https://www.dropbox.com/scl/fi/ef6mf6mxnfven5vtk5z9f/Advanced-Science-2022-Liu-Intrinsically-Stretchable-Organic-Electrochemical-Transistors-with-1.jpg?rlkey=6ri9r37law8xqm4gqbf2vuq4f&raw=1" alt="stars" width="100%">
       
     </div>
@@ -132,7 +132,7 @@ Jing Bai†,**Dingyao Liu†** (contributed equally), Xinyu Tian†, Yan Wang, B
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Science Advances 2024</div>
+      <div class="badge">Analytical Chemistry 2022</div>
      <img src="https://www.dropbox.com/scl/fi/ufs9g6ysn11e81ld3szwz/tian-et-al-2022-pushing-oects-toward-wearable-development-of-a-miniaturized-analytical-control-unit-for-wireless-device-1.jpg?rlkey=6zyn6hfh3soe3c4uednjlh9b5&raw=1" alt="stars" width="100%">
       
     </div>
