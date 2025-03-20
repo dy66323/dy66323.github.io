@@ -12,8 +12,7 @@ repository               : "dy66323/dy66323.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
-google_analytics         : G-ZC0QJRTNWM
+google_analytics         : 'G-ZC0QJRTNWM'
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
