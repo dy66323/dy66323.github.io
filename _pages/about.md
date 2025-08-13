@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hi, this is **Dingyao LIU**'s website.
-I am currently a PhD candidate in the department of electrical and electronics engineering, advised by [Prof. Shiming Zhang](https://scholar.google.com/citations?user=P_cYer0AAAAJ&hl=en&oi=ao). And I also cooperated with [Prof. Zhongrui Wang](https://scholar.google.com/citations?user=Ofl3nUsAAAAJ&hl=en&oi=ao) in neuromorphic computing and [Prof. George Malliaras](https://scholar.google.com/citations?user=66BcnF0AAAAJ&hl=en&oi=ao) in bioelectronics.
+I obtained the PhD degree in electrical and electronics engineering, advised by [Prof. Shiming Zhang](https://scholar.google.com/citations?user=P_cYer0AAAAJ&hl=en&oi=ao). And I also cooperated with [Prof. Zhongrui Wang](https://scholar.google.com/citations?user=Ofl3nUsAAAAJ&hl=en&oi=ao) in neuromorphic computing and [Prof. George Malliaras](https://scholar.google.com/citations?user=66BcnF0AAAAJ&hl=en&oi=ao) in bioelectronics. 
 
 ⛵ **Now, I am actively seeking a research faculty position and excited about new collaborative opportunities!**
 
@@ -26,6 +26,7 @@ My research interests mainly focus on:
 
 - **Organic bioelectronics** based on organic mixed ion conductors (OMIECs), particularly for healthcare monitoring and wearable applications.
 - **Brain-mimic Computing**, Neuromorphic computing and their hardware implementation.
+- **Integrated sensory system** that can continuously collect multimodal physiological signals(electrical, biochemical and biomechanical signals).
 - **Soft functional materials**, including semiconducting hydrogel, biomaterials, liquid metal, and their practical applications.
 
 📌 Feel free to reach out to discuss research collaboration or any other opportunities!
@@ -159,7 +160,7 @@ Xinyu Tian†, **Dingyao Liu†**(contributed equally),  Jing Bai, Kai Shan Chan
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">In submission 2025</div>
+      <div class="badge">In revision 2025</div>
      <img src="https://www.dropbox.com/scl/fi/eb9r89vd4plyr1f8k7nnx/SCH.jpg?rlkey=zxi0tdwk7j2o1gaxx3xk8s5r7&raw=1" alt="stars" width="100%">
     </div>
   </div>
@@ -176,7 +177,9 @@ Xinyu Tian†, **Dingyao Liu†**(contributed equally),  Jing Bai, Kai Shan Chan
     <a href="//"> <strong>[paper]</strong></a>
     <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()"><strong>[abstract]</strong></a>
     <div class="abstract" style="overflow: hidden; display: none;">
-    In recent years, 3D transistors have been pursued to extend Moore's Law. They are also highly desired in the field of bioelectronics to bridge the dimensional gap between 2D transistors and 3D living systems. However, this presents material challenges, as conventional semiconductors are inherently 2D in both architecture and modulation. Breaking the dimensional limits of transistors requires 3D semiconductors that integrate inherently conflicting properties, such as 3D architectures and 3D modulation. Furthermore, applications at the soft biological interface demand semiconductors with bio-level modulus and     stretchability. Such a semiconductor remains missing. In this work: i) We present a new material concept—the 3D semiconductor—achieved by integrating hydrogels, semiconductors, and electrochemistry. ii) These 3D hydrogel semiconductors achieve 3D bulk-modulation at millimeter-scale thicknesses, far surpassing the microscale limitations of current semiconductors. iii) Using the 3D semiconductor, we have, for the first time, created 3D transistors and 3D brain-inspired neuroelectronic circuits. These devices feature low modulus and high stretchability, bridging the long-standing gap between existing transistors and living systems. Our work addresses critical technological challenges in pursuing 3D transistors, enabling the creation of bioelectronic devices that can better interface with living systems. This approach has the potential to serve as a universal method for systematically enhancing the functionality of existing semiconductor devices while being broadly applicable to other fields. The methodology presented here provides a valuable reference not only for the semiconductor community but also for researchers across interdisciplinary domains such as bioelectronics, materials science, and neuroscience. 
+    3D transistors have been pursued in bioelectronics to bridge the dimensional gap between 2D transistors and 3D living systems. However, this poses material challenges, as conventional semiconductors are inherently 2D in both architecture and function. In this work, we report 3D semiconductors, integrating hydrogels, organic electronics, and electrochemistry. The 3D semiconductors offer complete 3D bulk modulation up to millimeter-scale thickness, far exceeding the micrometer-scale limitations of current semiconductors. Simultaneously, they offer intrinsic stretchability up to 50% and a modulus of 10–100 kPa—six orders of magnitude lower than conventional GPa-scale semiconductors. We demonstrated those 3D semiconductors provide immediate opportunities to move beyond 2D transistors, enabling 3D brain-inspired transistors, 3D cell-transistor integration, and 3D biohybrid intelligence, which are critical for bridging transistors with living systems
+<img width="432" height="278" alt="image" src="https://github.com/user-attachments/assets/b77e6e48-2e97-4a31-8549-57a87f5fa2b7" />
+
     </div>
 </div>
 
