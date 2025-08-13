@@ -31,7 +31,7 @@ My research interests mainly focus on:
 
 
 # 🔥 News
-- *2025.6*: &nbsp;🎉🎉 I successfully passed my PhD thesis defense in June 2025 and received an outstanding rating! Many thanks to the defense committee, my supervisors, and my fellow colleagues!
+- *2025.06*: &nbsp;🎉🎉 I successfully passed my PhD thesis defense in June 2025 and received an outstanding rating! Many thanks to the defense committee, my supervisors, and my fellow colleagues!
 - *2024.10*: &nbsp;🎉🎉 Our work about the stretchable, enhancement-mode PEDOT:PSS organic electrochemical transistors has been published on *Applied Physics Letter*.
 - *2024.10*: &nbsp;🎉🎉 Our work about the stretchable transistors for wearable in-sensor computing has been published on *Nature Electronics*. 
 - *2024.04*: &nbsp;🎉🎉 Our work about organic electrochemical transistors for continuous glucose monitoring (CGM) has been published on *Science Advances*!.
