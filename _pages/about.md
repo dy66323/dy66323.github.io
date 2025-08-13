@@ -20,8 +20,6 @@ redirect_from:
 Hi, this is **Dingyao LIU**'s website.
 I obtained the PhD degree in electrical and electronics engineering from HKU, supervised by [Prof. Shiming Zhang](https://scholar.google.com/citations?user=P_cYer0AAAAJ&hl=en&oi=ao). And I also cooperated with [Prof. Zhongrui Wang](https://scholar.google.com/citations?user=Ofl3nUsAAAAJ&hl=en&oi=ao) in neuromorphic computing and [Prof. George Malliaras](https://scholar.google.com/citations?user=66BcnF0AAAAJ&hl=en&oi=ao) in bioelectronics. 
 
-⛵ **Now, I am looking for new collaborative opportunities!**
-
 My research interests mainly focus on:
 
 - **Organic bioelectronics** based on organic mixed ion conductors (OMIECs), particularly for healthcare monitoring and wearable applications.
