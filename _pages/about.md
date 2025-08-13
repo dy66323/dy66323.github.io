@@ -277,7 +277,7 @@ Xinyu Tian†, **Dingyao Liu†**(contributed equally),  Jing Bai, Kai Shan Chan
 - *2013, 2015*, National Encouragement Scholarship, Xi'an Jiaotong University  
 
 # 📖 Educations
-- **2021.04 – now**, Ph.D. candidate in Electrical and Electronic Engineering, The University of Hong Kong, Hong Kong SAR.
+- **2021.04 – 2025.06**, Ph.D. in Electrical and Electronic Engineering, The University of Hong Kong, Hong Kong SAR.
 - **2016.09 – 2019.06**, M.Eng. in Polymer Science and Engineering, Sichuan University, Chengdu, China.
 - **2012.09 – 2016.06**, B.Sc. in Applied Chemistry, Xi'an Jiaotong University, Xi'an, China.
  
