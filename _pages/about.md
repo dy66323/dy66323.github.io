@@ -178,7 +178,6 @@ Xinyu Tian†, **Dingyao Liu†**(contributed equally),  Jing Bai, Kai Shan Chan
     <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()"><strong>[abstract]</strong></a>
     <div class="abstract" style="overflow: hidden; display: none;">
     3D transistors have been pursued in bioelectronics to bridge the dimensional gap between 2D transistors and 3D living systems. However, this poses material challenges, as conventional semiconductors are inherently 2D in both architecture and function. In this work, we report 3D semiconductors, integrating hydrogels, organic electronics, and electrochemistry. The 3D semiconductors offer complete 3D bulk modulation up to millimeter-scale thickness, far exceeding the micrometer-scale limitations of current semiconductors. Simultaneously, they offer intrinsic stretchability up to 50% and a modulus of 10–100 kPa—six orders of magnitude lower than conventional GPa-scale semiconductors. We demonstrated those 3D semiconductors provide immediate opportunities to move beyond 2D transistors, enabling 3D brain-inspired transistors, 3D cell-transistor integration, and 3D biohybrid intelligence, which are critical for bridging transistors with living systems.
-
     </div>
 </div>
 
@@ -201,7 +200,7 @@ Xinyu Tian†, **Dingyao Liu†**(contributed equally),  Jing Bai, Kai Shan Chan
 
 - First time introduces the Electrochemical Transistor Resonance Spectroscopy (ETRS) as a Novel Sensing Concept.
 - Breakthrough in Detection Limit Enhancement via Resonance Frequency Optimization.
-- Develops of a Miniaturized ETRS Readout System for Wearable Applications.
+- Develops a Miniaturized ETRS Readout System for Wearable Applications.
 <div style="display: inline">
     <a href="//"> <strong>[paper]</strong></a>
     <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()"><strong>[abstract]</strong></a>
