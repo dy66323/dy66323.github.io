@@ -31,6 +31,7 @@ My research interests mainly focus on:
 
 
 # 🔥 News
+2025.09:  🎉🎉 Our work about the hydrogel transistor has been accepted by *Science*! Many thanks for the mentorship of Prof. Zhang and Prof Malliaras, and the great teamwork with my colleagues! 
 - *2025.06*: &nbsp;🎉🎉 I successfully passed my PhD dissertation defense in June 2025 and received an outstanding rating! Many thanks to the defense committee, my supervisors, and my fellow colleagues!
 - *2024.10*: &nbsp;🎉🎉 Our work about the stretchable, enhancement-mode PEDOT:PSS organic electrochemical transistors has been published on *Applied Physics Letter*.
 - *2024.10*: &nbsp;🎉🎉 Our work about the stretchable transistors for wearable in-sensor computing has been published on *Nature Electronics*. 
@@ -42,6 +43,35 @@ My research interests mainly focus on:
 - *2021.12*: &nbsp;🎉🎉 We successfully delivered the talk at MRS Fall 2021 on soft OECTs! 
 
 # 📝 Publications 
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Science(In press) 2025</div>
+     <img src="https://www.dropbox.com/scl/fi/eb9r89vd4plyr1f8k7nnx/SCH.jpg?rlkey=zxi0tdwk7j2o1gaxx3xk8s5r7&raw=1" alt="stars" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    
+- [**Increasing the Dimensionality of Transistors with Hydrogel**]
+
+ **Dingyao Liu**, George Malliaras* , Shiming Zhang*.
+
+- Develops a 3D Semiconductor with bulk modulation capabilities in a large range of thickness (up to 1 mm) with hydrogel engineering
+- Develops the hydrogel semiconductor with tissue-like mechanical modulus (10-100 kPa), which is compatible with living systems.
+- Establishes a scalable protocol for fabricating 3D hydrogel semiconductors and demonstrates their potential in 3D transistors, brain-inspired 3D soft neuroelectronic circuits, and cell-transistor integration.
+<div style="display: inline">
+    <a href="//"> <strong>[paper]</strong></a>
+    <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()"><strong>[abstract]</strong></a>
+    <div class="abstract" style="overflow: hidden; display: none;">
+    3D transistors have been pursued in bioelectronics to bridge the dimensional gap between 2D transistors and 3D living systems. However, this poses material challenges, as conventional semiconductors are inherently 2D in both architecture and function. In this work, we report 3D semiconductors, integrating hydrogels, organic electronics, and electrochemistry. The 3D semiconductors offer complete 3D bulk modulation up to millimeter-scale thickness, far exceeding the micrometer-scale limitations of current semiconductors. Simultaneously, they offer intrinsic stretchability up to 50% and a modulus of 10–100 kPa—six orders of magnitude lower than conventional GPa-scale semiconductors. We demonstrated those 3D semiconductors provide immediate opportunities to move beyond 2D transistors, enabling 3D brain-inspired transistors, 3D cell-transistor integration, and 3D biohybrid intelligence, which are critical for bridging transistors with living systems.
+    </div>
+</div>
+
+  </div>
+</div>
+
+
  <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -159,34 +189,6 @@ Xinyu Tian†, **Dingyao Liu†**(contributed equally),  Jing Bai, Kai Shan Chan
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">In revision 2025</div>
-     <img src="https://www.dropbox.com/scl/fi/eb9r89vd4plyr1f8k7nnx/SCH.jpg?rlkey=zxi0tdwk7j2o1gaxx3xk8s5r7&raw=1" alt="stars" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-    
-- [**Increasing the Dimensionality of Transistors with Hydrogel**]
-
- **Dingyao Liu**, George Malliaras* , Shiming Zhang*.
-
-- Develops a 3D Semiconductor with bulk modulation capabilities in a large range of thickness (up to 1 mm) with hydrogel engineering
-- Develops the hydrogel semiconductor with tissue-like mechanical modulus (10-100 kPa), which is compatible with living systems.
-- Establishes a scalable protocol for fabricating 3D hydrogel semiconductors and demonstrates their potential in 3D transistors, brain-inspired 3D soft neuroelectronic circuits, and cell-transistor integration.
-<div style="display: inline">
-    <a href="//"> <strong>[paper]</strong></a>
-    <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()"><strong>[abstract]</strong></a>
-    <div class="abstract" style="overflow: hidden; display: none;">
-    3D transistors have been pursued in bioelectronics to bridge the dimensional gap between 2D transistors and 3D living systems. However, this poses material challenges, as conventional semiconductors are inherently 2D in both architecture and function. In this work, we report 3D semiconductors, integrating hydrogels, organic electronics, and electrochemistry. The 3D semiconductors offer complete 3D bulk modulation up to millimeter-scale thickness, far exceeding the micrometer-scale limitations of current semiconductors. Simultaneously, they offer intrinsic stretchability up to 50% and a modulus of 10–100 kPa—six orders of magnitude lower than conventional GPa-scale semiconductors. We demonstrated those 3D semiconductors provide immediate opportunities to move beyond 2D transistors, enabling 3D brain-inspired transistors, 3D cell-transistor integration, and 3D biohybrid intelligence, which are critical for bridging transistors with living systems.
-    </div>
-</div>
-
-  </div>
-</div>
-
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
       <div class="badge">In submission 2025</div>
      <img src="https://www.dropbox.com/scl/fi/rw0b7omzd13su4ixrs0dr/ETRS.jpg?rlkey=80muz2f311mu3pwu3dkq5qocl&raw=1" alt="stars" width="100%">
     </div>
@@ -195,7 +197,7 @@ Xinyu Tian†, **Dingyao Liu†**(contributed equally),  Jing Bai, Kai Shan Chan
     
 - [**Electrochemical Transistor Resonance Spectroscopy**]
 
-**Dingyao Liu†**, Shiming Zhang*.
+Xinyu Tian†, **Dingyao Liu†**(contributed equally), Shiming Zhang*.
 
 - First time introduces the Electrochemical Transistor Resonance Spectroscopy (ETRS) as a Novel Sensing Concept.
 - Breakthrough in Detection Limit Enhancement via Resonance Frequency Optimization.
